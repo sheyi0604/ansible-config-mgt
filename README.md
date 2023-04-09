@@ -2,4 +2,4 @@
 
 Test
 
-update
+updated inventory file
